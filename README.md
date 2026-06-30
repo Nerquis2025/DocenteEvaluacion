@@ -35,4 +35,4 @@ Aprendizajes
 Me sirvió full ver el funcionamiento real de las pruebas de caja negra separando los archivos con package docente_test. Así pude comprobar directamente en la terminal que si intentas meter mano a un método privado desde afuera, el compilador te frena en seco y te rebota el código, lo que me ayudó a entender mejor cómo proteger la información.
 
 Uso de IA
-Usé la herramienta más que nada como un tutor para quitarme dudas de sintaxis cuando me saltaban errores raros en la consola y para que me dé una pista de qué líneas me faltaba probar cuando el porcentaje de cobertura no quería subir al 100%.
+Usé la herramienta más que nada como un tutor para quitarme dudas de sintaxis cuando me saltaban errores raros en la consola y para que me dé una pista de qué líneas me faltaba probar cuando el porcentaje de cobertura no quería subir al 100%. 

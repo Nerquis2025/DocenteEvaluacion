@@ -63,3 +63,4 @@ func (d *Docente) normalizarNombre() string {
 func (d *Docente) agregarEvaluacionInterna(idEvaluacion string) {
 	d.evaluaciones = append(d.evaluaciones, idEvaluacion)
 }
+// cambio final 
